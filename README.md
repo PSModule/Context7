@@ -8,4 +8,4 @@ This repository is currently a placeholder. The module source still contains sca
 
 ## Documentation
 
-When this module is implemented, command details should live in PowerShell help and generated documentation rather than being duplicated in this README.
+No documentation is published yet, because the module has not been implemented. Once it is, command details will live in PowerShell help and generated documentation rather than being duplicated in this README.
